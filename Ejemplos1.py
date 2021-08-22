@@ -40,4 +40,4 @@ elif d==s:
 	print("d and s are equal")
 else:
     print("s is greather than d")	
-print("programa finalizado")
+print("programa finalizado") 
